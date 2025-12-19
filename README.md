@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on
-  --
-  -My Personal Website
-  --
+  
+  My Personal Website
+  
 - 🌱 I’m currently learnin
   --
   -HTML&CSS
