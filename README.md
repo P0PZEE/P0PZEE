@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on
-  
+  --
   My Personal Website
   
 - 🌱 I’m currently learnin
   --
-  -HTML&CSS
-  --
-  -Python
-  --
+  HTML&CSS
+  
+  Python
+  
