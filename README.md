@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+this profile is not where is needs to be, i will build it up from the ground up
 
 - 🔭 I’m currently working on
   --
