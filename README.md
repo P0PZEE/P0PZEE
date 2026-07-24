@@ -20,7 +20,7 @@ this profile is not where is needs to be, i will build it up from the ground up
   --
   My Personal Website
   
-- 🌱 I’m currently learnin
+- 🌱 I’m currently learning
   --
   HTML&CSS
   
